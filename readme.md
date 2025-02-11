@@ -31,7 +31,7 @@ git clone:
 - wbdata – To fetch real-time population & migration data from the World Bank API
 - Pandas – For data handling & filtering
 ## 📑 Data Source
-The data used in this dashboard has been sourced from the World Bank API to ensure open access and avoid any licensing issues. The World Bank provides publicly available datasets, which can be accessed and used freely in compliance with their terms of use.
+The data used in this dashboard has been sourced from the World Bank API. The World Bank provides publicly available datasets, which can be accessed and used freely in compliance with their terms of use.
 
 ## Dataset Includes:
 - Total Population
