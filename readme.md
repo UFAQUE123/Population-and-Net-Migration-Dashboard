@@ -7,7 +7,7 @@ This Streamlit-based dashboard provides interactive visualizations for exploring
 > Users can filter by countries, years, and themes (Light/Dark Mode) to generate insights.
 
 ## 📌 Features
-✅ Population & Migration Analysis – Track total population & net migration trends for multiple countries. 
+Population & Migration Analysis – Track total population & net migration trends for multiple countries. 
 1. Year & Country Filtering – Select specific years and countries for a customized view.
 2. Interactive Line Charts – Visualize population & migration trends over time.
 3. Bar Chart Comparison – Compare selected countries’ population for a specific year.
