@@ -3,8 +3,7 @@
 
 ## 🚀 Overview
 This Streamlit-based dashboard provides interactive visualizations for exploring world population growth and net migration trends from 1960 to 2023.
-
-> Users can filter by countries, years, and themes (Light/Dark Mode) to generate insights.
+Users can filter by countries, years, and themes (Light/Dark Mode) to generate insights.
 
 ## 📌 Features
 Population & Migration Analysis – Track total population & net migration trends for multiple countries. 
